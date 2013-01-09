@@ -1,4 +1,4 @@
 ios-calculator
 ==============
 
-calculator program for stanford lectures
+Calculator program for Stanford lectures
